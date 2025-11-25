@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Timestamp Diff",
-  "description": "A smart timestamp difference calculator that computes the duration between two dates in various units.",
+  "name": "Timestamp Diff",
+  "description": "Calculate the exact time difference between two dates or timestamps. Free online tool supporting ISO 8601, Epoch milliseconds, and human-readable formats.",
   "requestFramePermissions": []
 }

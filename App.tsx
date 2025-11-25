@@ -253,6 +253,27 @@ const App: React.FC = () => {
               </div>
             </div>
 
+            {/* About Section (SEO) */}
+            <section className="mt-12 mb-8 max-w-4xl mx-auto">
+              <h2 className="text-xl font-semibold text-slate-800 mb-4">About Timestamp Diff</h2>
+              <div className="prose prose-slate text-slate-600 leading-relaxed space-y-4">
+                <p>
+                  Timestamp Diff is a precision time calculation tool designed for developers, project managers, and anyone needing exact duration measurements. 
+                  Whether you are debugging <strong>Unix timestamps</strong> (Epoch time), planning project timelines, or calculating the 
+                  <strong>days between dates</strong>, our smart interpreter handles multiple formats instantly.
+                </p>
+                <p>
+                  Key features include:
+                </p>
+                <ul className="list-disc list-inside space-y-1 ml-2">
+                  <li>Instant conversion between <strong>ISO 8601</strong>, RFC 2822, and human-readable date formats.</li>
+                  <li>Support for <strong>Epoch milliseconds</strong> input for technical use cases.</li>
+                  <li>Detailed breakdown of time in years, months, days, hours, minutes, and seconds.</li>
+                  <li>Visual highlighting of total elapsed time in various units (Days, Hours, Minutes, Seconds).</li>
+                </ul>
+              </div>
+            </section>
+
           </div>
         )}
       </main>
