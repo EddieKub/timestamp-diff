@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Timestamp Diff",
+  "description": "A smart timestamp difference calculator that computes the duration between two dates in various units.",
+  "requestFramePermissions": []
+}

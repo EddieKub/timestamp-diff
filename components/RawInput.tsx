@@ -1,0 +1,1 @@
+// File removed - Component replaced by DateInput functionality
